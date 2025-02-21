@@ -1,2 +1,1 @@
-# STAIML
-STAIML Student Grade Prediction Website
+# Student Grade Prediction Website
